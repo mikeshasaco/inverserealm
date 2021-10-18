@@ -273,6 +273,12 @@
 
 }
 
+.cardone.greenmask {
+  --color1: rgb(255, 148, 54);
+  --color2: rgb(255, 90, 144);
+  background-image: url("green.png");
+
+}
 .cardone.yellowmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
@@ -361,6 +367,16 @@
   transition: filter 0.5s ease;
 }
 
+.cardone.greenmask:after {
+  opacity: 1;
+  background-image: url("https://media.giphy.com/media/1aTUTJOn3aavLVC6G1/giphy.gif");
+  background-position: center;
+  background-size: 160%;
+  z-index: 2;
+  animation: holoSparkle 15s ease infinite both;
+  filter: brightness(1);
+  transition: filter 0.5s ease;
+}
 .cardone.yellowmask:after {
   opacity: 1;
   background-image: url("https://media.giphy.com/media/GJnJcRCptdMRy/giphy.gif");
@@ -787,7 +803,13 @@
 
                                     </div>
 
-                                    </div>        
+                                    </div>     
+                                    
+                                    <div class="swiper-slide">
+                                <div class="cardone greenmask">
+
+                                    </div>
+                                </div>   
                                 </div> <!-- end of swiper-slide -->
                                 <!-- end of slide -->
         
