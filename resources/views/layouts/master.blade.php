@@ -34,7 +34,7 @@
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
             <a class="navbar-brand logo-image" style="    text-decoration: none;"  href=""> Inverse Realm</a>
 
-            <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
+            <!-- <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -62,7 +62,7 @@
                 </ul>
                 <span class="nav-item">
                     <a class="btn-outline-sm" href="contact.html">Contact</a>
-                </span>
+                </span> -->
             </div> <!-- end of navbar-collapse -->
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
@@ -78,12 +78,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <ul class="list-unstyled li-space-lg p-small">
+                    <!-- <ul class="list-unstyled li-space-lg p-small">
                         <li><a href="article.html">Details</a></li>
                         <li><a href="terms.html">Terms</a></li>
                         <li><a href="privacy.html">Privacy</a></li>
                         <li><a href="contact.html">Contact</a></li>
-                    </ul>
+                    </ul> -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <p class="p-small statement"> © <a href="#your-link">InverseRealm</a></p>

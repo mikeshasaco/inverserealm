@@ -917,7 +917,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">You will need to have MetaMask installed and set up (If you don't know what MetaMask is or how to install it, please visit <a href="https://metamask.io">MetaMask</a>   for instructions).  In order to buy, connect with your wallet and use the minting interface to select how many Inverse Slayers you want to get.
-Click the shiny mint button, approve the transaction on MetaMask and watch charizlord show into your wallet!</p>
+Click the shiny mint button, approve the transaction on MetaMask and watch Inverse Realm Slayer show into your wallet!</p>
                             </div>
 
                         </div>
