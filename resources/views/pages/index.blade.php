@@ -94,7 +94,7 @@
   padding: 20px;
   border: 1px solid #dddddd;
   border-radius: 6px;
-  background: #ffffff;
+  background: #000000;
 }
 .timeline .timeline-launch {
   width: 100%;
@@ -273,6 +273,20 @@
 
 }
 
+.cardone.rosemask {
+  --color1: rgb(255, 148, 54);
+  --color2: rgb(255, 90, 144);
+  background-image: url("rose.png");
+
+}
+
+.cardone.fullgoldmask {
+  --color1: rgb(255, 148, 54);
+  --color2: rgb(255, 90, 144);
+  background-image: url("fullgold.png");
+
+}
+
 .cardone.greenmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
@@ -366,6 +380,28 @@
   filter: brightness(1);
   transition: filter 0.5s ease;
 }
+.cardone.rosemask:after {
+  opacity: 1;
+  background-image: url("https://media.giphy.com/media/LVCdHNPTIY2be/giphy.gif");
+  background-position: center;
+  background-size: 160%;
+  z-index: 2;
+  animation: holoSparkle 15s ease infinite both;
+  filter: brightness(1);
+  transition: filter 0.5s ease;
+}
+
+.cardone.fullgoldmask:after {
+  opacity: 1;
+  background-image: url("https://media.giphy.com/media/3o7aCXpnE2y0YCCoJa/giphy.gif");
+  background-position: center;
+  background-size: 160%;
+  z-index: 2;
+  animation: holoSparkle 15s ease infinite both;
+  filter: brightness(1);
+  transition: filter 0.5s ease;
+}
+
 
 .cardone.greenmask:after {
   opacity: 1;
@@ -589,9 +625,9 @@
                 <div class="col-lg-6">
                     <h3 style="color:#fba0e3">7,777 Unique Inverse Realm Slayers</h3>
                     <ul style="line-height: 123px;">
-                        <li> <p style="font-size:20px;" >The Inverse Realm collection consist of 7,777 generated slayers living on the ethereum network.</p> </li>
-                        <li><p style="font-size:20px;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> </li>
-                        <li> <p style="font-size:20px;"  >Japanese Inspired Artwork</p> </li>
+                        <li> <p style="font-size:20px; color:white;" >The Inverse Realm collection consist of 7,777 generated slayers living on the ethereum network.</p> </li>
+                        <li><p style="font-size:20px; color:white;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> </li>
+                        <li> <p style="font-size:20px; color:white;"  >Japanese Inspired Artwork</p> </li>
                     </ul>
 
                     <p></p>
@@ -625,11 +661,11 @@
                     <i class="fa fa-gift"></i>
                   </div>
                   <div class="timeline-text">
-                    <h3>Launch Roadmap</h3>
+                    <h3 style="color:white;">Launch Roadmap</h3>
                     <ul>
-                                <li> Quality is very important to us we want to make sure that our designs are unique and crafted carefully. </li>
+                                <li style="color:white;"> Quality is very important to us we want to make sure that our designs are unique and crafted carefully. </li>
                                 <!-- <li> Community is very important first step in our road, we want to build a community that is genuine and that want to help one another.</li> -->
-                               <li>Follow us on discord, twitter for up to date information about the team and current progress.</li>
+                               <li style="color:white;">Follow us on discord, twitter for up to date information about the team and current progress.</li>
 
                               
                             </ul>
@@ -651,10 +687,10 @@
                     <i class="fa fa-business-time"></i>
                   </div>
                   <div class="timeline-text">
-                  <h3>Charity</h3>
+                  <h3 style="color:white;">Charity</h3>
 
                   <ul>
-                        <li>Charity is really important aspect to us, We want to help Children in need so we will donate (10%) to Save a Child. </li>
+                        <li style="color:white;">Charity is really important aspect to us, We want to help Children in need so we will donate (10%) to Save a Child. </li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
@@ -683,9 +719,9 @@
                     <i class="fa fa-briefcase"></i>
                   </div>
                   <div class="timeline-text">
-                    <h3>Growth</h3>
+                    <h3 style="color:white;">Growth</h3>
                     <ul>
-                          <li>Our main goal with Inverse Realm is to build a full functional utility. Our first project that we will be working is a Inverse Realm Card game where you can use your inverse NFT in PVP combat to earn rewards.</li>
+                          <li style="color:white;">Our main goal with Inverse Realm is to build a full functional utility. Our first project that we will be working is a Inverse Realm Card game where you can use your inverse NFT in PVP combat to earn rewards.</li>
                     </ul>
                     </div>
                 </div>
@@ -707,10 +743,10 @@
                     <i class="fa fa-business-time"></i>
                   </div>
                   <div class="timeline-text">
-                  <h3>Expansion</h3>
+                  <h3 style="color:white;">Expansion</h3>
 
                   <ul>
-                        <li>We want to build a brand with Inverse Realm so we will have different merchandises and various products for our members. We will work with other NFT groups and other communities to expand the Inverse Realm Brand.</li>
+                        <li style="color:white;">We want to build a brand with Inverse Realm so we will have different merchandises and various products for our members. We will work with other NFT groups and other communities to expand the Inverse Realm Brand.</li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
@@ -751,9 +787,9 @@
                     <h3 style="color:#fba0e3">Inverse Realm Card Game Future Plan!</h3>
 
                     <ul>
-                        <li> <p style="line-height: 40px;" >Our ultimate is to build a utility with the Inverse Realm Series. We want to build a NFT card game where our users can be battle amongst each other with there NFT's.</p> </li>
-                        <li> <p style="line-height: 40px;" >40 cards deck, 39 cards will be attributes and spell cards to help your Inverse Realm Slayer, and 1 slayer per deck. </p> </li>
-                        <li> <p style="line-height: 40px;" >We want to build a in game tournament offer rewards and different perks for participating. </p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >Our ultimate is to build a utility with the Inverse Realm Series. We want to build a NFT card game where our users can be battle amongst each other with there NFT's.</p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >40 cards deck, 39 cards will be attributes and spell cards to help your Inverse Realm Slayer, and 1 slayer per deck. </p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >We want to build a in game tournament offer rewards and different perks for participating. </p> </li>
 
 
                     </ul>
@@ -775,10 +811,18 @@
             <div class="row">
                 <div class="col-lg-12">
 
+                <h3 style="text-align:center; color:#fba0e3;">Each Inverse Realm Slayer Will Have Different Perks</h3>
+
                     <!-- Card Slider -->
                     <div class="slider-container">
                         <div class="swiper-container card-slider">
                             <div class="swiper-wrapper">
+
+                            <div class="swiper-slide">
+                                <div class="cardone rosemask">
+                                    </div>
+
+                                </div> <!-- end of swiper-slide -->
                                 
 
                               <!-- Slide -->
@@ -810,6 +854,12 @@
 
                                     </div>
                                 </div>   
+
+                                <div class="swiper-slide">
+                                <div class="cardone fullgoldmask">
+
+                                    </div>
+                                </div>   
                                 </div> <!-- end of swiper-slide -->
                                 <!-- end of slide -->
         
@@ -834,6 +884,10 @@
         </div> <!-- end of container -->
     </div> <!-- end of slider-1 -->
     <!-- end of testimonials -->
+
+
+                  
+      
 
 
     <section id="Merchant-help"  style="padding-bottom:100px; background:black; " >
