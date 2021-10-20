@@ -658,7 +658,7 @@
               <div class="col-md-6">
                 <div class="timeline-box">
                   <div class="timeline-icon">
-                    <i class="fa fa-gift"></i>
+                    <!-- <i class="fa fa-gift"></i> -->
                   </div>
                   <div class="timeline-text">
                     <h3 style="color:white;">Launch Roadmap</h3>
@@ -684,7 +684,7 @@
               <div class="col-md-6">
                 <div class="timeline-box">
                   <div class="timeline-icon d-md-none d-block">
-                    <i class="fa fa-business-time"></i>
+                    <!-- <i class="fa fa-business-time"></i> -->
                   </div>
                   <div class="timeline-text">
                   <h3 style="color:white;">Charity</h3>
@@ -694,7 +694,7 @@
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
-                    <i class="fa fa-business-time"></i>
+                    <!-- <i class="fa fa-business-time"></i> -->
                   </div>
                 </div>
               </div>
@@ -716,7 +716,7 @@
               <div class="col-md-6">
                 <div class="timeline-box">
                   <div class="timeline-icon">
-                    <i class="fa fa-briefcase"></i>
+                    <!-- <i class="fa fa-briefcase"></i> -->
                   </div>
                   <div class="timeline-text">
                     <h3 style="color:white;">Growth</h3>
@@ -740,7 +740,7 @@
               <div class="col-md-6">
                 <div class="timeline-box">
                   <div class="timeline-icon d-md-none d-block">
-                    <i class="fa fa-business-time"></i>
+                    <!-- <i class="fa fa-business-time"></i> -->
                   </div>
                   <div class="timeline-text">
                   <h3 style="color:white;">Expansion</h3>
@@ -750,7 +750,7 @@
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
-                    <i class="fa fa-business-time"></i>
+                    <!-- <i class="fa fa-business-time"></i> -->
                   </div>
                 </div>
               </div>
@@ -994,7 +994,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch Inver
                         <h3 style="color:white;"> Where can is the Discord link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="">Discord</a> </p>
+                                <p style="color:black;"> <a href="https://discord.gg/PxW25e8FkW">Discord</a> </p>
                             </div>
 
                         </div>
@@ -1005,7 +1005,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch Inver
                         <h3 style="color:white;"> where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/InverseRealm" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>

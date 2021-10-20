@@ -34,35 +34,22 @@
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
             <a class="navbar-brand logo-image" style="    text-decoration: none;"  href=""> Inverse Realm</a>
 
-            <!-- <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
+            <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ml-auto">
+                   
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="article.html">Details <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="terms.html">Terms</a>
+                        <a class="nav-link page-scroll" href="https://twitter.com/InverseRealm"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="privacy.html">Privacy</a>
+                        <a class="nav-link page-scroll" href="https://discord.gg/PxW25e8FkW"> <img src="discord.png" height="50px" width="50px" alt=""> </a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Drop</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item page-scroll" href="article.html">Article Details</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="terms.html">Terms Conditions</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="privacy.html">Privacy Policy</a>
-                        </div>
-                    </li>
+              
                 </ul>
-                <span class="nav-item">
-                    <a class="btn-outline-sm" href="contact.html">Contact</a>
-                </span> -->
+               
             </div> <!-- end of navbar-collapse -->
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
