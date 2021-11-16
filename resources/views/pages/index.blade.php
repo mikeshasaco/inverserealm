@@ -623,9 +623,9 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3">9,000 Unique Inverse Realm Slayers</h3>
+                    <h3 style="color:#fba0e3"> 7,777 Unique Inverse Realm Slayers</h3>
                     <ul style="line-height: 123px;">
-                        <li> <p style="font-size:20px; color:white;" >The Inverse Realm collection consist of 9,000 generated slayers living on the ethereum network.</p> </li>
+                        <li> <p style="font-size:20px; color:white;" >The Inverse Realm collection consist of 7,777 generated slayers living on the ethereum network.</p> </li>
                         <li><p style="font-size:20px; color:white;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> </li>
                         <li> <p style="font-size:20px; color:white;"  >Inverse Realm NFT will be based on our digital card game characters!</p> </li>
                     </ul>
@@ -690,7 +690,7 @@
                   <h3 style="color:white;">Game Development</h3>
 
                   <ul>
-                        <li style="color:white;">We are developing a play to earn, Inverse Realm digital collectible card game that would users to 1v1 and 2v2 with friends to earn rewards!</li>
+                        <li style="color:white;">We are developing a play to earn, Inverse Realm digital collectible card game  allow users to 1v1 and 2v2 with friends to earn rewards!</li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
@@ -721,7 +721,7 @@
                   <div class="timeline-text">
                     <h3 style="color:white;">Growth</h3>
                     <ul>
-                          <li style="color:white;">Our main goal with Inverse Realm is to build a full functional utility, NFT will serve as early access to communnity events such as early access to game launch as well as exclusive ranking in the Inverse Realm game.</li>
+                          <li style="color:white;">Our main goal with Inverse Realm is to build a full functional utility, NFT will serve as early access to community events such as early access to game launch as well as exclusive ranking in the Inverse Realm game.</li>
                     </ul>
                     </div>
                 </div>
@@ -787,7 +787,7 @@
                     <h3 style="color:#fba0e3">Inverse Realm Card Game Future Plan!</h3>
 
                     <ul>
-                        <li> <p style="line-height: 40px; color:white;" >Our ultimate is to build a utility with the Inverse Realm Series. We want to build a NFT card game where our users can be battle amongst each other with there NFT's.</p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >Our ultimate goal is to build a utility with the Inverse Realm Series. We want to build a NFT card game where our users can battle amongst each other for their NFT's.</p> </li>
                         <li> <p style="line-height: 40px; color:white;" >40 cards deck, 39 cards will be attributes and spell cards to help your Inverse Realm Slayer, and 1 slayer per deck. </p> </li>
                         <li> <p style="line-height: 40px; color:white;" >We want to build a in game tournament offer rewards and different perks for participating. </p> </li>
 
@@ -815,7 +815,7 @@
                     <h3 style="color:#fba0e3">Game Development (Release 1st Quarter 2022)</h3>
 
                     <ul>
-                        <li> <p style="line-height: 40px; color:white;" >Inverse Realm will have 6 Classes (Death, Life, Frost, Fire, water, Conjurer,Sorcerer)</p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >Inverse Realm will have 6 Classes (Death, Life, Fire, water, Conjurer,Sorcerer)</p> </li>
                         <li> <p style="line-height: 40px; color:white;" >Each class will have cards specific only to that class</p> </li>
                         <li> <p style="line-height: 40px; color:white;" >40 cards deck, NFT Holders wills have exclusive rank </p> </li>
                         <li> <p style="line-height: 40px; color:white;" >PVP, tournaments, leaderboards, we are building a fun but competitive game where users can build unique deck archetypes that will allow users to explore various card combinations. </p> </li>
@@ -933,7 +933,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                                The Inverse Realm collection consist of 9,000 generated slayers living on the ethereum network. Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.
+                                The Inverse Realm collection consist of 7,777 generated slayers living on the ethereum network. Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.
                             </p>
                             </div>
 
@@ -968,7 +968,7 @@
                         <h3 style="color:white;">  How much to mint a Inverse Realm Slayer ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">0.05 ETH + Gas</p>
+                                <p style="color:black;">0.03 ETH + Gas</p>
                             </div>
 
                         </div>
