@@ -625,7 +625,7 @@
                 <div class="col-lg-6">
                     <h3 style="color:#fba0e3"> 7,777 Unique Inverse Realm Slayers</h3>
                     <ul style="line-height: 123px;">
-                        <li> <p style="font-size:20px; color:white;" >The Inverse Realm collection consist of 7,777 generated slayers living on the ethereum network.</p> </li>
+                        <li> <p style="font-size:20px; color:white;" >The Inverse Realm collection consist of 7,777 generated slayers living on the Polygon network.</p> </li>
                         <li><p style="font-size:20px; color:white;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> </li>
                         <li> <p style="font-size:20px; color:white;"  >Inverse Realm NFT will be based on our digital card game characters!</p> </li>
                     </ul>
@@ -933,7 +933,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                                The Inverse Realm collection consist of 7,777 generated slayers living on the ethereum network. Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.
+                                The Inverse Realm collection consist of 7,777 generated slayers living on the Polygon network. Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.
                             </p>
                             </div>
 
@@ -968,24 +968,14 @@
                         <h3 style="color:white;">  How much to mint a Inverse Realm Slayer ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">0.03 ETH + Gas</p>
+                                <p style="color:black;">Join Discord For more Detail</p>
                             </div>
 
                         </div>
 
                     </div>
 
-                    <div class="question-title">
-                        <h3 style="color:white;">  How much Inverse Realm Slayers can i mint at a time ?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">You can buy up to 20  Per Transaction ! </p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
+                
                     <div class="question-title">
                         <h3 style="color:white;">  Where can i buy one Inverse Realm Slayer ?</h3>
                         <div class="content-main">
@@ -1062,7 +1052,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch Inver
                         <h3 style="color:white;"> Which BlockChain?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Ethereum Network</p>
+                                <p style="color:black;"> Polygon Network</p>
                             </div>
 
                         </div>
@@ -1085,7 +1075,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch Inver
                         <h3 style="color:white;"> When will the game be released?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Launch date 1st Quarter of 2022! </p>
+                                <p style="color:black;"> Launch date 2st Quarter of 2022! </p>
                             </div>
 
                         </div>
