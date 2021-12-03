@@ -724,6 +724,8 @@
                     <h3 style="color:white;">Token Launch</h3>
                     <ul>
                                 <li style="color:white;"> Launch the Inverse Meta Token on The BSC Network! </li>
+                                <li style="color:white;">Initial goal is to get Trending on DexTools! </li>
+                                <li style="color:white;"> Listing on: CoinMarketCap, CoinGecko, Cex Exchanges </li>
                                 <!-- <li> Community is very important first step in our road, we want to build a community that is genuine and that want to help one another.</li> -->
                                <li style="color:white;">Follow us on telegram, twitter for up to date information.</li>
 
@@ -807,7 +809,8 @@
                   <h3 style="color:white;">Expansion</h3>
 
                   <ul>
-                        <li style="color:white;">We want our community to be able to earn reward on the Inverse Meta digital card game, so we will be releasing a token specific to the Inverse Meta metaverse that will allow users to wager tokens against one another on the Inverse Meta game!</li>
+                        <li style="color:white;">We want our community to be able to earn reward on the Inverse Meta digital card game, so we will
+                      be releasing wager matches, where players can battle amongst each other for $IVM tokens! </li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
