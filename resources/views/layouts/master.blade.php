@@ -32,7 +32,7 @@
 
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
-            <a class="navbar-brand logo-image" style="    text-decoration: none;"  href=""> Inverse Meta</a>
+            <a class="navbar-brand logo-image" style="    text-decoration: none; color:black; font-weight:bold;"  > Inverse Meta</a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -45,7 +45,7 @@
                         <a class="nav-link page-scroll" href="https://twitter.com/InverseRealm"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://t.me/+_QohpEZ_2NExMzgx"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://t.me/+MAKudHqoDhBlZmJh"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
                     </li>
               
                 </ul>

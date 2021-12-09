@@ -602,7 +602,7 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white;">Welcome To The Inverse</h3>
+                    <h3 style="color:black; font-weight:bold;">Welcome To The Inverse</h3>
 
                 </div> <!-- end of div -->
                
@@ -674,12 +674,15 @@
                     <h3 style="color:#fba0e3"> Inverse Meta Tokenomics </h3>
                  
                     <ul>
-                      <h4 style="color:white; line-height:50px; !important;">Token Name: InverseMeta </h4>
-                      <h4 style="color:white; line-height:50px; !important;">Token Symbol: IVM</h4>
-                      <h4 style="color:white; line-height:50px; !important;">Token Platform: BSC</h4>
-                      <h4 style="color:white; line-height:50px; !important;">Total Supply: 1quadtrillion</h4>
-                      <h4 style="color:white; line-height:50px; !important;">Buy Tax: 10% (Marketing and expanding Inverse Meta Brand)</h4>
-                      <h4 style="color:white; line-height:50px; !important;">Sell Tax: 15% (Game Development)</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Token Name: InverseMeta </h4>
+                      <h4 style="color:white; line-height:40px; !important;">Token Symbol: IVM</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Token Platform: BSC</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Total Supply: 1quadtrillion</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Buy Tax: 10% (Marketing and expanding Inverse Meta Brand)</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Sell Tax: 15% (Game Development)</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Initial MarketCap: 20k</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Launch Date: December 13, 2021 10 AM EST</h4>
+
                     </ul>
 
                 </div>
@@ -948,7 +951,7 @@
                         <h3 style="color:white;">  When Inverse Meta Launch?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <a href="http://mint.pokeversenft.com/">December 8th, 6pm EST</a>
+                                <a href="http://mint.pokeversenft.com/">December 13th, 10AM EST</a>
                             </div>
 
                         </div>
@@ -1019,7 +1022,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch Inver
                         <h3 style="color:white;"> Where can is the Telegram link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://t.me/+_QohpEZ_2NExMzgx">Telegram</a> </p>
+                                <p style="color:black;"> <a href="https://t.me/+MAKudHqoDhBlZmJh">Telegram</a> </p>
                             </div>
 
                         </div>
