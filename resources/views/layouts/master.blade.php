@@ -32,7 +32,7 @@
 
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
-            <a class="navbar-brand logo-image" style="    text-decoration: none; color:black; font-weight:bold;"  > Inverse Meta</a>
+            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Inverse Meta</a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
