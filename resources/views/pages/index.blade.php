@@ -681,7 +681,7 @@
                       <h4 style="color:white; line-height:40px; !important;">Buy Tax: 10% (Marketing and expanding Inverse Meta Brand)</h4>
                       <h4 style="color:white; line-height:40px; !important;">Sell Tax: 15% (Game Development)</h4>
                       <h4 style="color:white; line-height:40px; !important;">Initial MarketCap: 20k</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Launch Date: December 13, 2021 10 AM EST</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Launch Date: December 14, 2021 7pm EST</h4>
 
                     </ul>
 
