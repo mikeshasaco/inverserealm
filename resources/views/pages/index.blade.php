@@ -951,7 +951,7 @@
                         <h3 style="color:white;">  When Inverse Meta Launch?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <a href="http://mint.pokeversenft.com/">December 13th, 10AM EST</a>
+                                <a href="http://mint.pokeversenft.com/">December 14th, 7pm EST</a>
                             </div>
 
                         </div>
