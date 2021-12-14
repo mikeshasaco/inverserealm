@@ -640,12 +640,12 @@
                 </div> -->
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> Inverse Meta Trading Card Game</h3>
+                    <h3 style="color:#fba0e3"> Inverse Meta Realm Trading Card Game</h3>
                  
                     <ul>
-                        <li> <p style="line-height: 40px; color:white;" >Inverse Meta will have 6 Classes (Death, Life, Fire, Water, Conjurer,Sorcerer)</p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >Inverse Meta Realm will have 6 Classes (Death, Life, Fire, Water, Conjurer,Sorcerer)</p> </li>
                         <li> <p style="line-height: 40px; color:white;" >Each class will have cards specific only to that class</p> </li>
-                        <li> <p style="line-height: 40px; color:white;" >40 cards deck, Inverse Meta Token Wagers!</p> </li>
+                        <li> <p style="line-height: 40px; color:white;" >40 cards deck, Inverse Meta Realm Token Wagers!</p> </li>
                         <li> <p style="line-height: 40px; color:white;" >PVP, tournaments, leaderboards, we are building a fun but competitive game where users can build unique deck archetypes that will allow users to explore various card combinations. </p> </li>
                         <li> <p style="line-height: 40px; color:white;" >Stay Tuned! </p> </li>
 
@@ -671,14 +671,14 @@
 
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> Inverse Meta Tokenomics </h3>
+                    <h3 style="color:#fba0e3"> Inverse Meta Realm Tokenomics </h3>
                  
                     <ul>
-                      <h4 style="color:white; line-height:40px; !important;">Token Name: InverseMeta </h4>
+                      <h4 style="color:white; line-height:40px; !important;">Token Name: InverseMeta  </h4>
                       <h4 style="color:white; line-height:40px; !important;">Token Symbol: IVM</h4>
                       <h4 style="color:white; line-height:40px; !important;">Token Platform: BSC</h4>
                       <h4 style="color:white; line-height:40px; !important;">Total Supply: 1quadtrillion</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Buy Tax: 10% (Marketing and expanding Inverse Meta Brand)</h4>
+                      <h4 style="color:white; line-height:40px; !important;">Buy Tax: 10% (Marketing and expanding Inverse Meta Realm Brand)</h4>
                       <h4 style="color:white; line-height:40px; !important;">Sell Tax: 15% (Game Development)</h4>
                       <h4 style="color:white; line-height:40px; !important;">Initial MarketCap: 20k</h4>
                       <h4 style="color:white; line-height:40px; !important;">Launch Date: December 14, 2021 7pm EST</h4>
@@ -755,8 +755,8 @@
                   <h3 style="color:white;">Game Development</h3>
 
                   <ul>
-                        <li style="color:white;">We are developing a play to earn, Inverse Meta digital collectible card game  allow users to 1v1 and 2v2 with friends to earn rewards! 
-                       <br> Inverse Meta card digital card game will be releasing in 1st Quarter of 2022!</li>
+                        <li style="color:white;">We are developing a play to earn, Inverse Meta Realm digital collectible card game  allow users to 1v1 and 2v2 with friends to earn rewards! 
+                       <br> Inverse Meta Realm card digital card game will be releasing in 1st Quarter of 2022!</li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
@@ -787,7 +787,7 @@
                   <div class="timeline-text">
                     <h3 style="color:white;">Growth</h3>
                     <ul>
-                          <li style="color:white;">Our main goal with Inverse Meta is to build a full functional utility, NFT will serve as early access to community events such as early access to game launch as well as exclusive ranking in the Inverse Meta game.</li>
+                          <li style="color:white;">Our main goal with Inverse Meta Realm is to build a full functional utility, NFT will serve as early access to community events such as early access to game launch as well as exclusive ranking in the Inverse Meta Realm game.</li>
                     </ul>
                     </div>
                 </div>
@@ -812,7 +812,7 @@
                   <h3 style="color:white;">Expansion</h3>
 
                   <ul>
-                        <li style="color:white;">We want our community to be able to earn reward on the Inverse Meta digital card game, so we will
+                        <li style="color:white;">We want our community to be able to earn reward on the Inverse Meta Realm digital card game, so we will
                       be releasing wager matches, where players can battle amongst each other for $IVM tokens! </li>
                  </ul>
                   </div>
@@ -849,7 +849,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:#fba0e3;">Each Inverse Meta Slayer Will Have Different Perks</h3>
+                <h3 style="text-align:center; color:#fba0e3;">Each Inverse Meta Realm Slayer Will Have Different Perks</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
@@ -935,11 +935,11 @@
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; color:black; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  What is Inverse Meta?</h3>
+                        <h3 style="color:white;">  What is Inverse Meta Realm?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                                The Inverse Meta is a digital card game on the BSC Network that will allow players to build decks specific to their class and battle amongst each other. 
+                                The Inverse Meta Realm is a digital card game on the BSC Network that will allow players to build decks specific to their class and battle amongst each other. 
                             </p>
                             </div>
 
@@ -948,7 +948,7 @@
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  When Inverse Meta Launch?</h3>
+                        <h3 style="color:white;">  When Inverse Meta Realm Launch?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <a href="http://mint.pokeversenft.com/">December 14th, 7pm EST</a>
@@ -962,7 +962,7 @@
                         <h3 style="color:white;">  Where can I buy?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">Once launched, Inverse Meta will be available for sale on Pancakeswap.</p>
+                                <p style="color:black;">Once launched, Inverse Meta Realm will be available for sale on Pancakeswap.</p>
                             </div>
 
                         </div>
@@ -971,7 +971,7 @@
 
 
                     <!-- <div class="question-title">
-                        <h3 style="color:white;">  How much to mint a Inverse Meta Slayer ?</h3>
+                        <h3 style="color:white;">  How much to mint a Inverse Meta Realm Slayer ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">Join Discord For more Detail</p>
@@ -983,7 +983,7 @@
 
                 
                     <!-- <div class="question-title">
-                        <h3 style="color:white;">  Where can i buy one Inverse Meta Slayer ?</h3>
+                        <h3 style="color:white;">  Where can i buy one Inverse Meta Realm Slayer ?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">When the Project launch you will be able to buy from this website.</p>
@@ -998,8 +998,8 @@
                         <h3 style="color:white;"> How can i buy?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;">You will need to have MetaMask installed and set up (If you don't know what MetaMask is or how to install it, please visit <a href="https://metamask.io">MetaMask</a>   for instructions).  In order to buy, connect with your wallet and use the minting interface to select how many Inverse Slayers you want to get.
-Click the shiny mint button, approve the transaction on MetaMask and watch Inverse Meta Slayer show into your wallet!</p>
+                                <p style="color:black;">You will need to have Meta RealmMask installed and set up (If you don't know what Meta RealmMask is or how to install it, please visit <a href="https://meta Realmmask.io">Meta RealmMask</a>   for instructions).  In order to buy, connect with your wallet and use the minting interface to select how many Inverse Slayers you want to get.
+Click the shiny mint button, approve the transaction on Meta RealmMask and watch Inverse Meta Realm Slayer show into your wallet!</p>
                             </div>
 
                         </div>
@@ -1041,7 +1041,7 @@ Click the shiny mint button, approve the transaction on MetaMask and watch Inver
                     </div>
 
                     <!-- <div class="question-title">
-                        <h3 style="color:white;"> Where will I be able to see my Inverse Meta Slayer NFT?</h3>
+                        <h3 style="color:white;"> Where will I be able to see my Inverse Meta Realm Slayer NFT?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;"> Your Slayer NFT will appear in your metamask wallet, also you will be able to see your NFT on opensea.io .</p>
