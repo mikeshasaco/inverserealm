@@ -8,7 +8,7 @@
 
 
     <!-- Webpage Title -->
-    <title>Inverse Meta Realm</title>
+    <title>Solana Realm</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -32,7 +32,7 @@
 
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
-            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Inverse Meta Realm</a>
+            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Solana Realm</a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -73,7 +73,7 @@
                     </ul> -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
-                    <p class="p-small statement"> © <a href="#your-link">InverseRealm</a></p>
+                    <p class="p-small statement"> © <a href="#your-link">SolanaRealm</a></p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->

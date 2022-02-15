@@ -602,7 +602,7 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:black; font-weight:bold;">Welcome To The Inverse</h3>
+                    <h3 style="color:white; font-weight:bold; text-align:center;">Solana Realm</h3>
 
                 </div> <!-- end of div -->
                
@@ -611,6 +611,34 @@
         <svg class="frame-decoration" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 192.275"><defs><style>.cls-1{fill:#000000;}</style></defs><title>frame-decoration</title><path class="cls-1" d="M0,158.755s63.9,52.163,179.472,50.736c121.494-1.5,185.839-49.738,305.984-49.733,109.21,0,181.491,51.733,300.537,50.233,123.941-1.562,225.214-50.126,390.43-50.374,123.821-.185,353.982,58.374,458.976,56.373,217.907-4.153,284.6-57.236,284.6-57.236V351.03H0V158.755Z" transform="translate(0 -158.755)"/></svg>
     </header> <!-- end of header -->
     <!-- end of header -->
+
+
+    <!-- Takeaways -->
+    <div class="basic-1 " style="background-color:black">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="cardone redmask">
+
+                    </div>
+
+                </div>
+                
+                <div class="col-lg-6">
+                    <h3 style="color:#fba0e3">6,000 Unique Realm Slayers</h3>
+                    <ul style="line-height: 120px;">
+                        <p style="font-size:20px; color:white;" >Solana Realm collection consist of 6,000 generated slayers living on the Solana Network.</p> 
+                        <p style="font-size:20px; color:white;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> 
+                         <p style="font-size:20px; color:white;"  >Japanese Inspired Artwork</p> </li>
+                    </ul>
+
+                    <p></p>
+                </div>
+             
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-1 -->
+    <!-- end of takeaways -->
     
 
 
@@ -640,14 +668,14 @@
                 </div> -->
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> Inverse Meta Realm Trading Card Game</h3>
+                    <h3 style="color:#fba0e3"> Solana Realm Trading Card Game</h3>
                  
                     <ul>
-                        <li> <p style="line-height: 40px; color:white;" >Inverse Meta Realm will have 6 Classes (Death, Life, Fire, Water, Conjurer,Sorcerer)</p> </li>
-                        <li> <p style="line-height: 40px; color:white;" >Each class will have cards specific only to that class</p> </li>
-                        <li> <p style="line-height: 40px; color:white;" >40 cards deck, Inverse Meta Realm Token Wagers!</p> </li>
-                        <li> <p style="line-height: 40px; color:white;" >PVP, tournaments, leaderboards, we are building a fun but competitive game where users can build unique deck archetypes that will allow users to explore various card combinations. </p> </li>
-                        <li> <p style="line-height: 40px; color:white;" >Stay Tuned! </p> </li>
+                         <p style="line-height: 40px; color:white;" >Solana Realm will have 6 Classes (Death, Life, Fire, Water, Conjurer)</p> 
+                         <p style="line-height: 40px; color:white;" >Each class will have cards specific only to that class</p> 
+                        <p style="line-height: 40px; color:white;" >30 cards deck, Solana Realm Token Wagers!</p> 
+                         <p style="line-height: 40px; color:white;" >PVP, tournaments, leaderboards, we are building a fun but competitive game where users can build unique deck archetypes that will allow users to explore various card combinations. </p> 
+                        <p style="line-height: 40px; color:white;" >Stay Tuned! </p> 
 
 
 
@@ -663,42 +691,6 @@
     <!-- end of takeaways -->
 
 
-       <!-- Takeaways -->
-       <div class="basic-1 " style="background-color:black">
-        <div class="container">
-            <div class="row">
-              
-
-                
-                <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> Inverse Meta Realm Tokenomics </h3>
-                 
-                    <ul>
-                      <h4 style="color:white; line-height:40px; !important;">Token Name: InverseMeta  </h4>
-                      <h4 style="color:white; line-height:40px; !important;">Token Symbol: IVM</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Token Platform: BSC</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Total Supply: 1quadtrillion</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Buy Tax: 10% (Marketing and expanding Inverse Meta Realm Brand)</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Sell Tax: 15% (Game Development)</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Initial MarketCap: 20k</h4>
-                      <h4 style="color:white; line-height:40px; !important;">Launch Date: December 14, 2021 7pm EST</h4>
-
-                    </ul>
-
-                </div>
-
-                <div class="col-lg-6">
-                    <div class="cardone redmask">
-
-
-                    </div>
-
-                </div>
-             
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of takeaways -->
 
 
 
@@ -724,11 +716,10 @@
                     <!-- <i class="fa fa-gift"></i> -->
                   </div>
                   <div class="timeline-text">
-                    <h3 style="color:white;">Token Launch</h3>
+                    <h3 style="color:white;">Phase 1</h3>
                     <ul>
-                                <li style="color:white;"> Launch the Inverse Meta Token on The BSC Network! </li>
-                                <li style="color:white;">Initial goal is to get Trending on DexTools! </li>
-                                <li style="color:white;"> Listing on: CoinMarketCap, CoinGecko, Cex Exchanges </li>
+                                <li style="color:white;"> Launch Solana Realm NFT </li>
+                                <!-- <li style="color:white;"> Release Merch</li> -->
                                 <!-- <li> Community is very important first step in our road, we want to build a community that is genuine and that want to help one another.</li> -->
                                <li style="color:white;">Follow us on telegram, twitter for up to date information.</li>
 
@@ -755,8 +746,8 @@
                   <h3 style="color:white;">Game Development</h3>
 
                   <ul>
-                        <li style="color:white;">We are developing a play to earn, Inverse Meta Realm digital collectible card game  allow users to 1v1 and 2v2 with friends to earn rewards! 
-                       <br> Inverse Meta Realm card digital card game will be releasing in 1st Quarter of 2022!</li>
+                        <li style="color:white;">We are developing a play to earn, Solana Realm digital collectible card game  allow users to 1v1 and 2v2 with friends to earn rewards! 
+                       <br> Solana Realm card digital card game will be releasing in 3rd Quarter of 2022!</li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
@@ -787,7 +778,7 @@
                   <div class="timeline-text">
                     <h3 style="color:white;">Growth</h3>
                     <ul>
-                          <li style="color:white;">Our main goal with Inverse Meta Realm is to build a full functional utility, NFT will serve as early access to community events such as early access to game launch as well as exclusive ranking in the Inverse Meta Realm game.</li>
+                          <li style="color:white;">Our main goal with Solana Realm is to build a full functional utility, NFT will serve as early access to community events such as early access to game launch as well as exclusive ranking in the Solana Realm game.</li>
                     </ul>
                     </div>
                 </div>
@@ -812,7 +803,7 @@
                   <h3 style="color:white;">Expansion</h3>
 
                   <ul>
-                        <li style="color:white;">We want our community to be able to earn reward on the Inverse Meta Realm digital card game, so we will
+                        <li style="color:white;">We want our community to be able to earn reward on the Solana Realm digital card game, so we will
                       be releasing wager matches, where players can battle amongst each other for $IVM tokens! </li>
                  </ul>
                   </div>
@@ -849,7 +840,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:#fba0e3;">Each Inverse Meta Realm Slayer Will Have Different Perks</h3>
+                <h3 style="text-align:center; color:#fba0e3;">Each Solana Realm Slayer Will Have Different Perks</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
@@ -935,11 +926,11 @@
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; color:black; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  What is Inverse Meta Realm?</h3>
+                        <h3 style="color:white;">  What is Solana Realm?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                                The Inverse Meta Realm is a digital card game on the BSC Network that will allow players to build decks specific to their class and battle amongst each other. 
+                                The Solana Realm is a digital card game on the Solana Network that will allow players to build decks specific to their class and battle amongst each other. 
                             </p>
                             </div>
 
@@ -948,27 +939,17 @@
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  When Inverse Meta Realm Launch?</h3>
+                        <h3 style="color:white;">  When Solana Realm Mint Date?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <a href="http://mint.pokeversenft.com/">December 14th, 7pm EST</a>
+                                TBA Join Discord For More Information
                             </div>
 
                         </div>
 
                     </div>
 
-                    <div class="question-title">
-                        <h3 style="color:white;">  Where can I buy?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">Once launched, Inverse Meta Realm will be available for sale on Pancakeswap.</p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
+               
 
                     <!-- <div class="question-title">
                         <h3 style="color:white;">  How much to mint a Inverse Meta Realm Slayer ?</h3>
@@ -1006,23 +987,14 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
 
                     </div> -->
 
-                    <div class="question-title">
-                        <h3 style="color:white;"> What is the Contract Address?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">The contract address will be announced after launch in our official Telegram group, and the site will be updated.</p>
-                            </div>
-
-                        </div>
-
-                    </div>
+              
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where can is the Telegram link?</h3>
+                        <h3 style="color:white;"> Where can is the Discord link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://t.me/+MAKudHqoDhBlZmJh">Telegram</a> </p>
+                                <p style="color:black;"> <a href="https://t.me/+MAKudHqoDhBlZmJh">Discord</a> </p>
                             </div>
 
                         </div>
@@ -1058,7 +1030,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                         <h3 style="color:white;"> Which BlockChain?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> BSC Network</p>
+                                <p style="color:black;"> Solana Network</p>
                             </div>
 
                         </div>
@@ -1072,7 +1044,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                         <h3 style="color:white;"> When will the game be released?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Launch date 1st Quarter of 2022! </p>
+                                <p style="color:black;"> Launch date 4th Quarter of 2022! </p>
                             </div>
 
                         </div>
