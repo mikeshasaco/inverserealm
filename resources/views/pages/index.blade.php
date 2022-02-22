@@ -994,7 +994,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                         <h3 style="color:white;"> Where can is the Discord link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://t.me/+MAKudHqoDhBlZmJh">Discord</a> </p>
+                                <p style="color:black;"> <a href="https://discord.gg/R3qtPKeCmJ">Discord</a> </p>
                             </div>
 
                         </div>
@@ -1005,7 +1005,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                         <h3 style="color:white;"> where can i find the twitter link?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/InverseRealm" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/RealmSolana" target="_blank">Twitter</a> </p>
                             </div>
 
                         </div>
