@@ -263,7 +263,7 @@
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("red.png");
+  background-image: url("unknownfull.png");
 
 }
 .cardone.bluemask {
@@ -302,7 +302,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("inverse.gif");
+  background-image: url("unknownfull.png");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -602,7 +602,7 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white; font-weight:bold; text-align:center;">Solana Realm</h3>
+                    <h3 style="color:white; font-weight:bold; text-align:center;">Unknown EcoSystem</h3>
 
                 </div> <!-- end of div -->
                
@@ -625,11 +625,13 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3">6,000 Unique Realm Slayers</h3>
+                    <h3 style="color:#fba0e3">Unknown we the Revolution</h3>
                     <ul style="line-height: 120px;">
-                        <p style="font-size:20px; color:white;" >Solana Realm collection consist of 6,000 generated slayers living on the Solana Network.</p> 
-                        <p style="font-size:20px; color:white;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> 
-                         <p style="font-size:20px; color:white;"  >Japanese Inspired Artwork</p> </li>
+                        <p style="font-size:20px; color:white;" >We are the forgotten group</p> 
+                        <p style="font-size:20px; color:white;"  >Most of Us had submitted to Cabals and other groups! This token on base is for the people.</p> 
+                         <p style="font-size:20px; color:white;"  >Meme building utilities, building a community, growing a network</p> </li>
+                         <p style="font-size:20px; color:white;"  >Who is unknown? you ask we all are and we are actual engineers building on the base ecosystem.</p> </li>
+
                     </ul>
 
                     <p></p>
@@ -668,14 +670,14 @@
                 </div> -->
                 
                 <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> Solana Realm Trading Card Game</h3>
+                    <h3 style="color:#fba0e3"> Unknown Meme Ecosystem </h3>
                  
                     <ul>
-                         <p style="line-height: 40px; color:white;" >Solana Realm will have 6 Classes (Death, Life, Fire, Water, Conjurer)</p> 
-                         <p style="line-height: 40px; color:white;" >Each class will have cards specific only to that class</p> 
-                        <p style="line-height: 40px; color:white;" >30 cards deck, Solana Realm Token Wagers!</p> 
-                         <p style="line-height: 40px; color:white;" >PVP, tournaments, leaderboards, we are building a fun but competitive game where users can build unique deck archetypes that will allow users to explore various card combinations. </p> 
-                        <p style="line-height: 40px; color:white;" >Stay Tuned! </p> 
+                         <p style="line-height: 20px; color:white;" >Unknown is a empowerment of the people, this token is for the forgotten, the people with no voice. </p> 
+                         <p style="line-height: 20px; color:white;" >We are building a a meme utiltiy to grow and expand the base ecosystem.</p> 
+                        <p style="line-height: 20px; color:white;" >Utility Base meme token that goal is to help and improve the base ecosystem.</p> 
+                         <p style="line-height: 20px; color:white;" >We are will be building a game that will be better then pump.fun, and offer the users the ability to win ethereum</p> 
+                        <p style="line-height: 20px; color:white;" >Stay Tuned! </p> 
 
 
 
@@ -718,10 +720,10 @@
                   <div class="timeline-text">
                     <h3 style="color:white;">Phase 1</h3>
                     <ul>
-                                <li style="color:white;"> Launch Solana Realm NFT </li>
+                                <li style="color:white;"> Deployment of the Bridge </li>
                                 <!-- <li style="color:white;"> Release Merch</li> -->
                                 <!-- <li> Community is very important first step in our road, we want to build a community that is genuine and that want to help one another.</li> -->
-                               <li style="color:white;">Follow us on telegram, twitter for up to date information.</li>
+                               <li style="color:white;">The bridge will allow users to migrate from blockchain to blockchain, as well as buy meme tokens from bridging in one transcation.</li>
 
                               
                             </ul>
@@ -746,8 +748,8 @@
                   <h3 style="color:white;">Game Development</h3>
 
                   <ul>
-                        <li style="color:white;">We are developing a play to earn, Solana Realm digital collectible card game  allow users to 1v1 and 2v2 with friends to earn rewards! 
-                       <br> Solana Realm card digital card game will be releasing in 3rd Quarter of 2022!</li>
+                        <li style="color:white;">Game development: We are building a leverage.pump 
+                       <br> More information will come soon</li>
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
@@ -778,7 +780,7 @@
                   <div class="timeline-text">
                     <h3 style="color:white;">Growth</h3>
                     <ul>
-                          <li style="color:white;">Our main goal with Solana Realm is to build a full functional utility, NFT will serve as early access to community events such as early access to game launch as well as exclusive ranking in the Solana Realm game.</li>
+                          <li style="color:white;">Innovation is a key to the unknown ecosystem, we plan to branch into different industries like gaming,casino and blockchain development.</li>
                     </ul>
                     </div>
                 </div>
@@ -788,7 +790,7 @@
 
 
 
-            <div class="row timeline-left">
+            <!-- <div class="row timeline-left">
               <div class="col-md-6 d-md-none d-block">
                 <p class="timeline-date">
                   Growth
@@ -797,7 +799,6 @@
               <div class="col-md-6">
                 <div class="timeline-box">
                   <div class="timeline-icon d-md-none d-block">
-                    <!-- <i class="fa fa-business-time"></i> -->
                   </div>
                   <div class="timeline-text">
                   <h3 style="color:white;">Expansion</h3>
@@ -808,7 +809,6 @@
                  </ul>
                   </div>
                   <div class="timeline-icon d-md-block d-none">
-                    <!-- <i class="fa fa-business-time"></i> -->
                   </div>
                 </div>
               </div>
@@ -817,7 +817,7 @@
                   Phase 4
                 </p>
               </div>
-            </div>
+            </div> -->
 
 
             
@@ -840,7 +840,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:#fba0e3;">Each Solana Realm Slayer Will Have Different Perks</h3>
+                <h3 style="text-align:center; color:#fba0e3;"></h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
@@ -848,7 +848,7 @@
                             <div class="swiper-wrapper">
 
                             <div class="swiper-slide">
-                                <div class="cardone rosemask">
+                                <div class="cardone redmask">
                                     </div>
 
                                 </div> <!-- end of swiper-slide -->
@@ -856,7 +856,7 @@
 
                               <!-- Slide -->
                               <div class="swiper-slide">
-                                <div class="cardone yellowmask">
+                                <div class="cardone redmask">
                                     </div>
 
                                 </div> <!-- end of swiper-slide -->
@@ -872,20 +872,20 @@
         
                                 <!-- Slide -->
                                 <div class="swiper-slide">
-                                <div class="cardone bluemask">
+                                <div class="cardone redmask">
 
                                     </div>
 
                                     </div>     
                                     
                                     <div class="swiper-slide">
-                                <div class="cardone greenmask">
+                                <div class="cardone redmask">
 
                                     </div>
                                 </div>   
 
                                 <div class="swiper-slide">
-                                <div class="cardone fullgoldmask">
+                                <div class="cardone redmask">
 
                                     </div>
                                 </div>   
@@ -918,7 +918,7 @@
                   
       
 
-
+<!-- 
     <section id="Merchant-help"  style="padding-bottom:100px; background:black; " >
     <div class="container">
         <div class="row">
@@ -950,43 +950,6 @@
                     </div>
 
                
-
-                    <!-- <div class="question-title">
-                        <h3 style="color:white;">  How much to mint a Inverse Meta Realm Slayer ?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">Join Discord For more Detail</p>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
-                
-                    <!-- <div class="question-title">
-                        <h3 style="color:white;">  Where can i buy one Inverse Meta Realm Slayer ?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">When the Project launch you will be able to buy from this website.</p>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
-
-                    <!-- <div class="question-title">
-                        <h3 style="color:white;"> How can i buy?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;">You will need to have Meta RealmMask installed and set up (If you don't know what Meta RealmMask is or how to install it, please visit <a href="https://meta Realmmask.io">Meta RealmMask</a>   for instructions).  In order to buy, connect with your wallet and use the minting interface to select how many Inverse Slayers you want to get.
-Click the shiny mint button, approve the transaction on Meta RealmMask and watch Inverse Meta Realm Slayer show into your wallet!</p>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
               
 
 
@@ -1011,18 +974,6 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
                         </div>
 
                     </div>
-
-                    <!-- <div class="question-title">
-                        <h3 style="color:white;"> Where will I be able to see my Inverse Meta Realm Slayer NFT?</h3>
-                        <div class="content-main">
-                            <div class="content-inner">
-                                <p style="color:black;"> Your Slayer NFT will appear in your metamask wallet, also you will be able to see your NFT on opensea.io .</p>
-                            </div>
-
-                        </div>
-
-                    </div> -->
-
                 
 
 
@@ -1062,7 +1013,7 @@ Click the shiny mint button, approve the transaction on Meta RealmMask and watch
         </div>
     </div>
 
-</section>
+</section> -->
 
 
 

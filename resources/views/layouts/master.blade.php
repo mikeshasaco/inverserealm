@@ -8,7 +8,7 @@
 
 
     <!-- Webpage Title -->
-    <title>Solana Realm</title>
+    <title>Unknown</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="gold.png">
+    <link rel="icon" href="unknown.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -32,7 +32,7 @@
 
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
-            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Solana Realm</a>
+            <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Unknown</a>
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
