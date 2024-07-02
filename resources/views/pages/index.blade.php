@@ -840,7 +840,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:#fba0e3;"></h3>
+                <h3 style="text-align:center; color:#fba0e3;">We are Unknown</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
@@ -918,7 +918,7 @@
                   
       
 
-<!-- 
+
     <section id="Merchant-help"  style="padding-bottom:100px; background:black; " >
     <div class="container">
         <div class="row">
@@ -926,11 +926,11 @@
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; color:black; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  What is Solana Realm?</h3>
+                        <h3 style="color:white;">  What is Unknown?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p style="color:black;">
-                                The Solana Realm is a digital card game on the Solana Network that will allow players to build decks specific to their class and battle amongst each other. 
+                                Unknown is a meme ecoystem of builders from all around the world to give the voiceless a voice. The goal of Unknown is to allow the poor the less fortunate the ability to be able to make money and be successful and wealth this bull run.
                             </p>
                             </div>
 
@@ -939,10 +939,10 @@
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;">  When Solana Realm Mint Date?</h3>
+                        <h3 style="color:white;"> What we launching on </h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                TBA Join Discord For More Information
+                              Base Ecosystem
                             </div>
 
                         </div>
@@ -954,10 +954,10 @@
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Where can is the Discord link?</h3>
+                        <h3 style="color:white;"> What the goal of unknown</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://discord.gg/R3qtPKeCmJ">Discord</a> </p>
+                                <p style="color:black;">The goal is 1 billion marketcap and to build products on the base ecosystem.</p>
                             </div>
 
                         </div>
@@ -965,10 +965,10 @@
                     </div>
 
                     <div class="question-title">
-                        <h3 style="color:white;"> where can i find the twitter link?</h3>
+                        <h3 style="color:white;"> why are we doing this?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> <a href="https://twitter.com/RealmSolana" target="_blank">Twitter</a> </p>
+                                <p style="color:black;"> <a href="https://twitter.com/RealmSolana" target="_blank">Twit</p>
                             </div>
 
                         </div>
@@ -978,10 +978,10 @@
 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> Which BlockChain?</h3>
+                        <h3 style="color:white;"> Is there tax on this token?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Solana Network</p>
+                                <p style="color:black;"> Yes 2/3 tax this will go to marketing, and server fees.</p>
                             </div>
 
                         </div>
@@ -992,10 +992,10 @@
                 
 
                     <div class="question-title">
-                        <h3 style="color:white;"> When will the game be released?</h3>
+                        <h3 style="color:white;"> What products will you be launching?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p style="color:black;"> Launch date 4th Quarter of 2022! </p>
+                                <p style="color:black;"> First product is a bridge that allow users to bridge to base. The second product will be a game similar to pump.fun</p>
                             </div>
 
                         </div>
@@ -1013,7 +1013,7 @@
         </div>
     </div>
 
-</section> -->
+</section>
 
 
 
