@@ -240,7 +240,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 100%;
+  background-size: 138%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -260,10 +260,46 @@
   overflow: hidden;
   transform: translate3d(0,0,-1px); 
 }
+.cardone-1 {
+  
+  --color1: rgb(0, 231, 255);
+  --color2: rgb(255, 0, 231);
+  
+  width: 320px;
+  height: 446px;
+  /* background-color: #FFD700; */
+  background-size: 138%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 5% / 3.5%;
+  box-shadow: -13px -13px 13px -15px var(--color1), 
+    13px 13px 13px -15px var(--color2), 
+    0 0 4px 2px rgba(255,255,255,0.5),
+    0 35px 25px -15px rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+  display: block;
+  vertical-align: middle;
+  margin: 20px 10px;
+  /* roatation */
+  /* animation: holoCard 15s ease infinite; */
+  transform-origin: center;
+  z-index: 10;
+  overflow: hidden;
+  transform: translate3d(0,0,-1px); 
+}
+
 .cardone.redmask {
   --color1: rgb(255, 148, 54);
   --color2: rgb(255, 90, 144);
-  background-image: url("unknownfull.png");
+  background-image: url("watercat.webp");
+
+}
+
+.cardone.redmasked {
+  --color1: rgb(255, 148, 54);
+  --color2: rgb(255, 90, 144);
+  background-image: url("storm.webp");
 
 }
 .cardone.bluemask {
@@ -302,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("unknownfull.png");
+  background-image: url("moon.webp");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -361,7 +397,7 @@
 }
 .cardone.redmask:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/gmDwphaOWmfkY/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3QxaXhkMnZxNjluNWVid3c5aGV2bnk5djgyNzdoNjVnM3VnbGdvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5YcTXlCHHg7DFlZe8e/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
@@ -369,6 +405,18 @@
   filter: brightness(1);
   transition: filter 0.5s ease;
 }
+
+.cardone.redmasked:after {
+  opacity: 1;
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h1cXZ4cXZ5YjBkcjB5dm9hbm1uYzJoeDB2dmRwamhia2c4Y2JmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarHBDofiI04yE4U/giphy.gif");
+  background-position: center;
+  background-size: 160%;
+  z-index: 2;
+  animation: holoSparkle 15s ease infinite both;
+  filter: brightness(1);
+  transition: filter 0.5s ease;
+}
+
 
 .cardone.bluemask:after {
   opacity: 1;
@@ -589,6 +637,33 @@
 .question-title{
     border-bottom: 1px solid #fff;
 }
+
+.content {
+    text-align: center;
+    margin-top: 125px;
+}
+
+.big-text {
+    font-size: 4rem;
+    color: white;
+    font-family: 'Poppins', sans-serif; /* You can use Google Fonts or any web-safe font */
+    margin-bottom: 40px;
+}
+
+.large-button {
+    padding: 20px 60px;
+    font-size: 1.5rem;
+    background-color: #61dafb;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.large-button:hover {
+    background-color: #21a1f1;
+}
   
 </style>
 
@@ -602,245 +677,34 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white; font-weight:bold; text-align:center;">Unknown EcoSystem</h3>
+                    <h3 style="color:white; font-weight:bold; text-align:center;">AquaCat</h3>
 
                 </div> <!-- end of div -->
                
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-        <svg class="frame-decoration" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 192.275"><defs><style>.cls-1{fill:#000000;}</style></defs><title>frame-decoration</title><path class="cls-1" d="M0,158.755s63.9,52.163,179.472,50.736c121.494-1.5,185.839-49.738,305.984-49.733,109.21,0,181.491,51.733,300.537,50.233,123.941-1.562,225.214-50.126,390.43-50.374,123.821-.185,353.982,58.374,458.976,56.373,217.907-4.153,284.6-57.236,284.6-57.236V351.03H0V158.755Z" transform="translate(0 -158.755)"/></svg>
+        <div class="svg-container" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk2czFiMTcyY3BwaDdleGI4bG9neXFmYmZpOW5hNzN4anIzcHBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTabAGJsmKWkXyo/giphy.gif'); background-size: cover; background-position: center;">
+    <svg class="frame-decoration" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 192.275">
+        <defs>
+            <style>.cls-1{fill:transparent;}</style>
+        </defs>
+        <title>frame-decoration</title>
+        <path class="cls-1" d="M0,158.755s63.9,52.163,179.472,50.736c121.494-1.5,185.839-49.738,305.984-49.733,109.21,0,181.491,51.733,300.537,50.233,123.941-1.562,225.214-50.126,390.43-50.374,123.821-.185,353.982,58.374,458.976,56.373,217.907-4.153,284.6-57.236,284.6-57.236V351.03H0V158.755Z" transform="translate(0 -158.755)"/>
+    </svg>
+</div>
     </header> <!-- end of header -->
     <!-- end of header -->
 
 
-    <!-- Takeaways -->
-    <div class="basic-1 " style="background-color:black">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="cardone redmask">
-
-                    </div>
-
-                </div>
-                
-                <div class="col-lg-6">
-                    <h3 style="color:#fba0e3">Unknown we the Revolution</h3>
-                    <ul style="line-height: 120px;">
-                        <p style="font-size:20px; color:white;" >We are the forgotten group</p> 
-                        <p style="font-size:20px; color:white;"  >Most of Us had submitted to Cabals and other groups! This token on base is for the people.</p> 
-                         <p style="font-size:20px; color:white;"  >Meme building utilities, building a community, growing a network</p> </li>
-                         <p style="font-size:20px; color:white;"  >Who is unknown? you ask we all are and we are actual engineers building on the base ecosystem.</p> </li>
-
-                    </ul>
-
-                    <p></p>
-                </div>
-             
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of takeaways -->
-    
-
-
-    <!-- Takeaways -->
-    <div class="basic-1 " style="background-color:black">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <!-- <div class="cardone redmask"> -->
-                      <div>
-                    <img src="inversegame.gif" alt="" width="100%">
-
-
-                    </div>
-
-                </div>
-<!-- 
-                <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> 7,777 Unique Inverse Meta Slayers</h3>
-                    <ul style="line-height: 123px;">
-                        <li> <p style="font-size:20px; color:white;" >The Inverse Meta collection consist of 7,777 generated slayers living on the Polygon network.</p> </li>
-                        <li><p style="font-size:20px; color:white;"  >Each artwork is originally designed with over hundred different elements and various color palettes used to create the unique design.</p> </li>
-                        <li> <p style="font-size:20px; color:white;"  >Inverse Meta NFT will be based on our digital card game characters!</p> </li>
-                    </ul>
-
-                    <p></p>
-                </div> -->
-                
-                <div class="col-lg-6">
-                    <h3 style="color:#fba0e3"> Unknown Meme Ecosystem </h3>
-                 
-                    <ul>
-                         <p style="line-height: 20px; color:white;" >Unknown is a empowerment of the people, this token is for the forgotten, the people with no voice. </p> 
-                         <p style="line-height: 20px; color:white;" >We are building a a meme utiltiy to grow and expand the base ecosystem.</p> 
-                        <p style="line-height: 20px; color:white;" >Utility Base meme token that goal is to help and improve the base ecosystem.</p> 
-                         <p style="line-height: 20px; color:white;" >We are will be building a game that will be better then pump.fun, and offer the users the ability to win ethereum</p> 
-                        <p style="line-height: 20px; color:white;" >Stay Tuned! </p> 
-
-
-
-
-                    </ul>
-
-                    <p></p>
-                </div>
-             
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of takeaways -->
-
-
-
-
-
-<div class="timeline" style="background-color:black;">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="timeline-container">
-          <div class="timeline-end">
-            <p>Now</p>
-          </div>
-          <div class="timeline-continue">
-
-            <div class="row timeline-right">
-              <div class="col-md-6">
-                <p class="timeline-date" style="color:#fba0e3">
-                  Phase 1
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon">
-                    <!-- <i class="fa fa-gift"></i> -->
-                  </div>
-                  <div class="timeline-text">
-                    <h3 style="color:white;">Phase 1</h3>
-                    <ul>
-                                <li style="color:white;"> Deployment of the Bridge </li>
-                                <!-- <li style="color:white;"> Release Merch</li> -->
-                                <!-- <li> Community is very important first step in our road, we want to build a community that is genuine and that want to help one another.</li> -->
-                               <li style="color:white;">The bridge will allow users to migrate from blockchain to blockchain, as well as buy meme tokens from bridging in one transcation.</li>
-
-                              
-                            </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row timeline-left">
-              <div class="col-md-6 d-md-none d-block">
-                <p class="timeline-date">
-                  Growth
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon d-md-none d-block">
-                    <!-- <i class="fa fa-business-time"></i> -->
-                  </div>
-                  <div class="timeline-text">
-                  <h3 style="color:white;">Game Development</h3>
-
-                  <ul>
-                        <li style="color:white;">Game development: We are building a leverage.pump 
-                       <br> More information will come soon</li>
-                 </ul>
-                  </div>
-                  <div class="timeline-icon d-md-block d-none">
-                    <!-- <i class="fa fa-business-time"></i> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 d-md-block d-none">
-                <p class="timeline-date"  style="color:#fba0e3">
-                  Phase 2
-                </p>
-              </div>
-            </div>
-
-       
-
-            <div class="row timeline-right">
-              <div class="col-md-6">
-                <p class="timeline-date"  style="color:#fba0e3">
-                  Phase 3
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon">
-                    <!-- <i class="fa fa-briefcase"></i> -->
-                  </div>
-                  <div class="timeline-text">
-                    <h3 style="color:white;">Growth</h3>
-                    <ul>
-                          <li style="color:white;">Innovation is a key to the unknown ecosystem, we plan to branch into different industries like gaming,casino and blockchain development.</li>
-                    </ul>
-                    </div>
-                </div>
-              </div>
-            </div>
-
-
-
-
-            <!-- <div class="row timeline-left">
-              <div class="col-md-6 d-md-none d-block">
-                <p class="timeline-date">
-                  Growth
-                </p>
-              </div>
-              <div class="col-md-6">
-                <div class="timeline-box">
-                  <div class="timeline-icon d-md-none d-block">
-                  </div>
-                  <div class="timeline-text">
-                  <h3 style="color:white;">Expansion</h3>
-
-                  <ul>
-                        <li style="color:white;">We want our community to be able to earn reward on the Solana Realm digital card game, so we will
-                      be releasing wager matches, where players can battle amongst each other for $IVM tokens! </li>
-                 </ul>
-                  </div>
-                  <div class="timeline-icon d-md-block d-none">
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 d-md-block d-none">
-                <p class="timeline-date"  style="color:#fba0e3">
-                  Phase 4
-                </p>
-              </div>
-            </div> -->
-
-
-            
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-   
-
-
 
     <!-- Testimonials -->
-    <div class="slider-1">
+    <div class="basic-1" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk2czFiMTcyY3BwaDdleGI4bG9neXFmYmZpOW5hNzN4anIzcHBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTabAGJsmKWkXyo/giphy.gif'); background-size: cover; background-position: center;">
+    <div class="slider-1" style="background-color: ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
 
-                <h3 style="text-align:center; color:#fba0e3;">We are Unknown</h3>
+                <h3 style="text-align:center; color:black;">AquaCat</h3>
 
                     <!-- Card Slider -->
                     <div class="slider-container">
@@ -914,11 +778,111 @@
     </div> <!-- end of slider-1 -->
     <!-- end of testimonials -->
 
+<!-- Takeaways -->
+<div class="basic-1" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdkcnd0YWEwdmVwZ2ZrdjVpY2k5a3F0enVsZ2d3bmUxdWw0ZGJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buhykcIp61x20cU/giphy.gif'); background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="cardone redmasked">
+                    <!-- Content for the left column -->
+                </div>
+            </div>
+            
+            <div class="col-lg-6">
+            <div class="content">
+        <h1 class="big-text">Welcome To AquaCat</h1>
+        <button class="large-button">Buy</button>
+    </div>
+            
+
+                
+            </div>
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
+</div> <!-- end of basic-1 -->
+<!-- end of takeaways -->
+
+
+
+
+
+
+
+       
+<!-- 
+            <div class="row timeline-right">
+              <div class="col-md-6">
+                <p class="timeline-date"  style="color:#fba0e3">
+                  Phase 3
+                </p>
+              </div>
+              <div class="col-md-6">
+                <div class="timeline-box">
+                  <div class="timeline-icon"> -->
+                    <!-- <i class="fa fa-briefcase"></i> -->
+                  <!-- </div>
+                  <div class="timeline-text">
+                    <h3 style="color:white;">Growth</h3>
+                    <ul>
+                          <li style="color:white;">Innovation is a key to the unknown ecosystem, we plan to branch into different industries like gaming,casino and blockchain development.</li>
+                    </ul>
+                    </div>
+                </div>
+              </div>
+            </div> -->
+
+
+
+
+            <!-- <div class="row timeline-left">
+              <div class="col-md-6 d-md-none d-block">
+                <p class="timeline-date">
+                  Growth
+                </p>
+              </div>
+              <div class="col-md-6">
+                <div class="timeline-box">
+                  <div class="timeline-icon d-md-none d-block">
+                  </div>
+                  <div class="timeline-text">
+                  <h3 style="color:white;">Expansion</h3>
+
+                  <ul>
+                        <li style="color:white;">We want our community to be able to earn reward on the Solana Realm digital card game, so we will
+                      be releasing wager matches, where players can battle amongst each other for $IVM tokens! </li>
+                 </ul>
+                  </div>
+                  <div class="timeline-icon d-md-block d-none">
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 d-md-block d-none">
+                <p class="timeline-date"  style="color:#fba0e3">
+                  Phase 4
+                </p>
+              </div>
+            </div> -->
+
+
+            
+<!-- 
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+
+
+   
+
+
+
 
                   
       
 
-
+<!-- 
     <section id="Merchant-help"  style="padding-bottom:100px; background:black; " >
     <div class="container">
         <div class="row">
@@ -1013,7 +977,7 @@
         </div>
     </div>
 
-</section>
+</section> -->
 
 
 

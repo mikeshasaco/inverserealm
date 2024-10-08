@@ -8,7 +8,7 @@
 
 
     <!-- Webpage Title -->
-    <title>Unknown</title>
+    <title>AquaCat</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="unknown.png">
+    <link rel="icon" href="waterpick.webp">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -33,7 +33,7 @@
             <!-- Image Logo -->
             <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
             <!-- <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Unknown</a> -->
-            <a class="nav-link page-scroll" href="https://twitter.com/RealmSolana"> <img src="unknown.png" height="50px" width="50px" alt=""> </a>
+            <a class="nav-link page-scroll" href="https://twitter.com/RealmSolana"> <img src="moon.webp" height="50px" width="50px" alt=""> </a>
 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
@@ -75,7 +75,7 @@
                     </ul> -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
-                    <p class="p-small statement"> © <a href="#your-link">SolanaRealm</a></p>
+                    <p class="p-small statement"> <a href="#your-link"></a></p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
