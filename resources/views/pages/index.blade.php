@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("moon.webp");
+  background-image: url("warlord.png");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://media.giphy.com/media/3ov9jQqeeHygU7zXrO/giphy.gif?cid=ecf05e47saar1c14zcrpsx889mhwyo6xb8py1laitbv9rt8b&rid=giphy.gif&ct=g");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdmaGp0Y2QyNHl1OWNkYmw2YjRucDlneWt1c3d5eXY4aTA5bTFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xqJNV627VB8BUenwEy/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
