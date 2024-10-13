@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("warlord.png");
+  background-image: url("commanders.png");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdmaGp0Y2QyNHl1OWNkYmw2YjRucDlneWt1c3d5eXY4aTA5bTFwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xqJNV627VB8BUenwEy/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN0N2k1YWZjNGp6a3hidWc3dXl2dGNzenNlYnY2bnRrMGhhNTJnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K3G6ZEHsbHKGnogFaP/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
