@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("captainnew.png");
+  background-image: url("knights.png");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp4ajB3dXA3eGZva3R5ZTd2M3Z2OHJzdmoxMW03N3c0bzFjNjNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXHhI4o9NCf8k/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV6N2k5dHZpdDFyandvZmozbHgxNDlvcXNoaGJ3ZmhrN2JxYm01dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zYoVn6EN9mM8VQFbOd/giphy-downsized-large.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
