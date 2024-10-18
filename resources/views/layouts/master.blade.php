@@ -44,10 +44,10 @@
                 <ul class="navbar-nav ml-auto">
                    
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://twitter.com/unknownbases"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://twitter.com/aquacatsui"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://t.me/unknownbases"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://t.me/aquacatsui"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
                     </li>
               
                 </ul>

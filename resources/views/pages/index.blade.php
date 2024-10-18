@@ -237,10 +237,10 @@
   --color1: rgb(0, 231, 255);
   --color2: rgb(255, 0, 231);
   
-  width: 320px;
+  width: 375px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 138%;
+  background-size: 102%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -268,7 +268,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 138%;
+  background-size: 1%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("commanders.png");
+  background-image: url("captainnew.png");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN0N2k1YWZjNGp6a3hidWc3dXl2dGNzenNlYnY2bnRrMGhhNTJnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K3G6ZEHsbHKGnogFaP/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp4ajB3dXA3eGZva3R5ZTd2M3Z2OHJzdmoxMW03N3c0bzFjNjNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXHhI4o9NCf8k/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
