@@ -237,7 +237,7 @@
   --color1: rgb(0, 231, 255);
   --color2: rgb(255, 0, 231);
   
-  width: 375px;
+  width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
   background-size: 102%;
