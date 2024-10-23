@@ -240,7 +240,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 102%;
+  background-size: 145%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("commanders.png");
+  background-image: url("warlordchair.webp");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN212cDlsOHRocDJqMTN2eDAxZ2NkMm9yNmt6dnN0NnFzd3NrZjEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13mwsrXEUtSyZi/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN295NjM1aTBreDE5aTR3cmFtbWM3c3BhYW0xazd5bDc4cjkwNGtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
@@ -666,46 +666,6 @@
 }
   
 
-.stars {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100%;
-    height: 100%;
-    transform: translate(-50%, -50%);
-    animation: rotate 10s linear infinite;
-}
-
-.star {
-    position: absolute;
-    font-size: 24px;
-    color: gold;
-}
-
-.star:nth-child(1) { transform: rotate(0deg) translate(80px) rotate(0deg); }
-.star:nth-child(2) { transform: rotate(45deg) translate(80px) rotate(-45deg); }
-.star:nth-child(3) { transform: rotate(90deg) translate(80px) rotate(-90deg); }
-.star:nth-child(4) { transform: rotate(135deg) translate(80px) rotate(-135deg); }
-.star:nth-child(5) { transform: rotate(180deg) translate(80px) rotate(-180deg); }
-.star:nth-child(6) { transform: rotate(225deg) translate(80px) rotate(-225deg); }
-.star:nth-child(7) { transform: rotate(270deg) translate(80px) rotate(-270deg); }
-.star:nth-child(8) { transform: rotate(315deg) translate(80px) rotate(-315deg); }
-
-.number {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 48px;
-    font-weight: bold;
-    color: black;
-    z-index: 1;
-}
-
-@keyframes rotate {
-    0% { transform: translate(-50%, -50%) rotate(0deg); }
-    100% { transform: translate(-50%, -50%) rotate(360deg); }
-}
 </style>
 
 
@@ -734,21 +694,7 @@
     </svg>
 </div>
     </header> <!-- end of header -->
-    <!-- end of header -->
-    <div class="container">
-        <div class="stars">
-            <span class="star">★</span>
-            <span class="star">★</span>
-            <span class="star">★</span>
-            <span class="star">★</span>
-            <span class="star">★</span>
-            <span class="star">★</span>
-            <span class="star">★</span>
-            <span class="star">★</span>
-        </div>
-        <div class="number">1</div>
-    </div>
-
+ 
 
 
     <!-- Testimonials -->
