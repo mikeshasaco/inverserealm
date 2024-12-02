@@ -8,7 +8,7 @@
 
 
     <!-- Webpage Title -->
-    <title>AquaCat</title>
+    <title>GOD</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="waterpick.webp">
+    <link rel="icon" href="god.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -27,13 +27,8 @@
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
         <div class="container">
             
-            <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Kobe</a> -->
-
-            <!-- Image Logo -->
-            <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a>  -->
-            <!-- <a class="navbar-brand logo-image" style="    text-decoration: none; color:white; font-weight:bold;"  > Unknown</a> -->
-            <a class="nav-link page-scroll" href="https://twitter.com/RealmSolana"> <img src="moon.webp" height="50px" width="50px" alt=""> </a>
+            
+            <!-- <a class="nav-link page-scroll" href="https://twitter.com/RealmSolana"> <img src="god.png" height="50px" width="50px" alt=""> </a> -->
 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
@@ -43,13 +38,13 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ml-auto">
                    
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://twitter.com/aquacatsui"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
+                    <!-- <li class="nav-item">
+                        <a class="nav-link page-scroll" href="https://twitter.com/GOD"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://t.me/aquacatsui"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://t.me/GOD"> <img src="telegram.png" height="50px" width="50px" alt=""> </a>
                     </li>
-              
+               -->
                 </ul>
                
             </div> <!-- end of navbar-collapse -->

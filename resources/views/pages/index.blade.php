@@ -240,7 +240,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 145%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("warlordchair.webp");
+  background-image: url("god.png");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN295NjM1aTBreDE5aTR3cmFtbWM3c3BhYW0xazd5bDc4cjkwNGtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMwdzliOXBqbHFpcmF3OWJmZ2l0OXV6bW56d3BqeDM2Z285YnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytwDCy4skFkEzyw4G4/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
@@ -678,12 +678,13 @@
                     <div class="cardone cardverse">
 
                     </div>
-                    <h3 style="color:white; font-weight:bold; text-align:center;">AquaCat</h3>
+                    <h3 style="color:white; font-weight:bold; text-align:center;">GOD/CBBTC</h3>
+                    <h4></h4>
 
                 </div> <!-- end of div -->
                
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
+            </div> 
+        </div> 
         <div class="svg-container" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk2czFiMTcyY3BwaDdleGI4bG9neXFmYmZpOW5hNzN4anIzcHBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTabAGJsmKWkXyo/giphy.gif'); background-size: cover; background-position: center;">
     <svg class="frame-decoration" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 192.275">
         <defs>
@@ -698,93 +699,14 @@
 
 
     <!-- Testimonials -->
-    <div class="basic-1" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk2czFiMTcyY3BwaDdleGI4bG9neXFmYmZpOW5hNzN4anIzcHBsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTabAGJsmKWkXyo/giphy.gif'); background-size: cover; background-position: center;">
-    <div class="slider-1" style="background-color: ">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-
-                <h3 style="text-align:center; color:black;">AquaCat</h3>
-
-                    <!-- Card Slider -->
-                    <div class="slider-container">
-                        <div class="swiper-container card-slider">
-                            <div class="swiper-wrapper">
-
-                            <div class="swiper-slide">
-                                <div class="cardone redmask">
-                                    </div>
-
-                                </div> <!-- end of swiper-slide -->
-                                
-
-                              <!-- Slide -->
-                              <div class="swiper-slide">
-                                <div class="cardone redmask">
-                                    </div>
-
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                <div class="cardone redmask">
-                                    </div>
-
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-        
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                <div class="cardone redmask">
-
-                                    </div>
-
-                                    </div>     
-                                    
-                                    <div class="swiper-slide">
-                                <div class="cardone redmask">
-
-                                    </div>
-                                </div>   
-
-                                <div class="swiper-slide">
-                                <div class="cardone redmask">
-
-                                    </div>
-                                </div>   
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-        
-                              
-        
-                             
-                              
-                            
-                            </div> <!-- end of swiper-wrapper -->
-        
-                            <!-- Add Arrows -->
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                            <!-- end of add arrows -->
-        
-                        </div> <!-- end of swiper-container -->
-                    </div> <!-- end of slider-container -->
-                    <!-- end of card slider -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of slider-1 -->
-    <!-- end of testimonials -->
+   
 
 <!-- Takeaways -->
-<div class="basic-1" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdkcnd0YWEwdmVwZ2ZrdjVpY2k5a3F0enVsZ2d3bmUxdWw0ZGJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buhykcIp61x20cU/giphy.gif'); background-size: cover; background-position: center;">
+<!-- <div class="basic-1" style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdkcnd0YWEwdmVwZ2ZrdjVpY2k5a3F0enVsZ2d3bmUxdWw0ZGJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buhykcIp61x20cU/giphy.gif'); background-size: cover; background-position: center;">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="cardone redmasked">
-                    <!-- Content for the left column -->
                 </div>
             </div>
             
@@ -797,10 +719,10 @@
 
                 
             </div>
-        </div> <!-- end of row -->
-    </div> <!-- end of container -->
-</div> <!-- end of basic-1 -->
-<!-- end of takeaways -->
+        </div> 
+    </div>  -->
+</div> 
+
 
 
 
