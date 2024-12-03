@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMwdzliOXBqbHFpcmF3OWJmZ2l0OXV6bW56d3BqeDM2Z285YnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytwDCy4skFkEzyw4G4/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F5cmpuemhsMHozdmpjaGlsejRrYnBra2locGNjdG84ZDdjZHZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZO8upuwNKfpm0/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
