@@ -240,7 +240,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 280%;
+  background-size: 300%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("biton.jpg");
+  background-image: url("bb.jpeg");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ0ZWc3Znc3b28wN3VmcGI2MjBrOTloZXA5eXJmOTExcDB6Nm05dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KgmHerYrxQVs4D0PUX/giphy.gif");
+  background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmg2c2ppcnAwaG8zeTRpZ2E2b3B0dTF1YmVuaDlydTN4YjVoZGpheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/re4m1Rc4OOYvgCZpYB/giphy-downsized-large.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
