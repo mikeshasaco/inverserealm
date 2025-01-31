@@ -240,7 +240,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 120%;
+  background-size: 142%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("toshi.jpeg");
+  background-image: url("miggles.jpeg");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk5dTZ3N3dmaWQ1aDQ5aGo5Z3B4cWZ4N2R6YzB6NmN5ZWs2bmU4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZFrf9JusXzmpnPsT6/giphy.gif");
+  background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVkdXpnZ2lndDI3dXJtcWQ5OGh2ZHp3YWIzaTZycm0yd3l0djFkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DiIJZ2en45sfdb9pKx/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
