@@ -338,7 +338,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("miggles.jpeg");
+  background-image: url("miggleso.jpeg");
 }
 .cardone.mew {
   --color1: #eb8bff;
@@ -387,7 +387,7 @@
 }
 .cardone.cardverse:after {
   opacity: 1;
-  background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVkdXpnZ2lndDI3dXJtcWQ5OGh2ZHp3YWIzaTZycm0yd3l0djFkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DiIJZ2en45sfdb9pKx/giphy.gif");
+  background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Vqd2NhcGJjbHdqeG52czdhc3dwbmJocmk5ODZ6dTFvamx5ZzcyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytwDCy4skFkEzyw4G4/giphy.gif");
   background-position: center;
   background-size: 160%;
   z-index: 2;
